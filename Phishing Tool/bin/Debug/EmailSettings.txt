@@ -1,0 +1,4 @@
+SpoofedSender@lizardstudio.com
+Spoofed Sender Name
+Email Subject
+HTML Email Body Editor
